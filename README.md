@@ -6,7 +6,8 @@ The goal of this project is to explore a set of data related to the Scholastic A
 
 This is also an opportunity to practice with data cleaning and the various visual packages that the MatPlot library and Seaborn have to offer. 
 
-<img src="https://2aih25gkk2pi65s8wfa8kzvi-wpengine.netdna-ssl.com/blog/files/2018/08/shutterstock_1027883017.jpg" width=600 height=600 />
+<p align = "center">
+  <img src="https://2aih25gkk2pi65s8wfa8kzvi-wpengine.netdna-ssl.com/blog/files/2018/08/shutterstock_1027883017.jpg" width=400 height=300 />
 
 ## The Dataset
 
@@ -17,3 +18,14 @@ The dataset is retrieved from New York City Department of Education and can be f
 <p align="center">
   <img src = "https://github.com/eric8395/Eric_Portfolio/blob/main/images/SAT%20Scores.png" width="600" height="450">
   </p>
+
+
+<p align="center">
+  <img src = "https://github.com/eric8395/nycsatscores/blob/main/images/Screen%20Shot%202022-01-01%20at%206.11.41%20PM.png?raw=true" width="600" height="450">
+  </p>
+  
+  
+<p align="center">
+  <img src = "https://github.com/eric8395/nycsatscores/blob/main/images/Screen%20Shot%202022-01-01%20at%206.13.33%20PM.png?raw=true" width="500" height="350">
+  </p>
+

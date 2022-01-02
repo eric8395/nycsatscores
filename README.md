@@ -13,11 +13,15 @@ This is also an opportunity to practice with data cleaning and the various visua
 
 The dataset is retrieved from New York City Department of Education and can be found on the [Kaggle](https://www.kaggle.com/nycopendata/high-schools) website. 
 
-## Overall Observations & Conclusions 
+## Insights & Observations
 
 <p align="center">
   <img src = "https://github.com/eric8395/Eric_Portfolio/blob/main/images/SAT%20Scores.png" width="600" height="450">
   </p>
+  
+There are many highschools with a low percentage of the Asian and White student population (less than 10%). These schools appear to also have lower average SAT scores and are generally clustered together. However, there appears to be a slight positive relationship between percentage of White and Asian students as the percentage of ethnicities increases.
+
+Comparitively, there is less of a clusttering of data points for percentage of Black and Hispanic students in high schools. The data points are generally spread evenly across the percentage spectrum and display a slight negative relationship.
 
 
 <p align="center">
